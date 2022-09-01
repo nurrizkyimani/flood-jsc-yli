@@ -1,0 +1,407 @@
+nama_sekolah,alamat,kelurahan,kecamatan,jumlah_siswa,jumlah_guru,telepon,kondisi_lingkungan,latitude,longitude
+SDN Cakung Barat 03 Pg.,Jl. Raya Bekasi Km. 23,Cakung Barat,Cakung,269,10,(021) 4618243,Banjir,0,0
+SDN Jatinegara 08 Pg.,Jl. Buaran I,Jatinegara,Cakung,607,23,(021) 46833370,Banjir,0,0
+SDN Jatinegara 09 Pg.,Jl. Buaran I Rt. 006/08,Jatinegara,Cakung,334,14,(021) 4612737,Banjir,0,0
+SDN Jatinegara 10 Pg.,Jl. Raya Bekasi Km. 17,Jatinegara,Cakung,390,17,(021) 46820804,Banjir,0,0
+SDN Jatinegara 14 Pt.,Kp. Buaran I,Jatinegara,Cakung,237,11,(021) 4618227,Banjir,0,0
+SDN Cempaka Putih Barat 15 Pg.,Jl. Cempaka Putih Barat XIX,Cempaka Putih Barat,Cempaka Putih,467,20,(021) 42880352,Banjir,-6.180982,106.864746
+SDN Cempaka Putih Barat 17 Pg.,Jl. Cempaka Putih Barat XIV No. F 15,Cempaka Putih Barat,Cempaka Putih,513,22,(021) 4261148,Banjir,-6.1796,106.866402
+SDN Cengkareng Barat 07 Pg.,Jl. Rawa Kramat Rt.04/04,Cengkareng Barat,Cengkareng,322,10,(021) 54370891,Banjir,-6.15245,106.724731
+SDN Cengkareng Barat 08 Pt.,Jl. Rawa Keramat,Cengkareng Barat,Cengkareng,268,7,(021) 54370891,Banjir,-6.15448,106.727562
+SDN Cengkareng Barat 13 Pg.,Jl. Jaya  25,Cengkareng Barat,Cengkareng,393,17,(021) 55959379,Banjir,-6.129237,106.722992
+SDN Cengkareng Barat 14 Pg.,Jl. Jaya VIII Rt.02/10,Cengkareng Barat,Cengkareng,389,12,(021) 5595087,Banjir,-6.128798,106.723976
+SDN Cengkareng Barat 15 Pg.,Jl. Flamboyan Jaya VIII Rt.002/010,Cengkareng Barat,Cengkareng,382,14,(021) 5556150,Banjir,-6.128624,106.723946
+SDN Cengkareng Barat 19 Pg.,Jl. Rawa Bengkel Rt.04/07,Cengkareng Barat,Cengkareng,304,11,(021) 5446062,Banjir,-6.141465,106.725822
+SDN Cengkareng Timur 14 Pg.,Jl. Bangun Nusa Raya,Cengkareng Timur,Cengkareng,384,15,(021)5451592,Banjir,-6.152535,106.739906
+SDN Cengkareng Timur 15 Pg.,Jl . Bangun Nusa Raya,Cengkareng Timur,Cengkareng,371,15,(021) 54380289,Banjir,-6.152535,106.739906
+SDN Cengkareng Timur 16 Pt.,Jl . Bangun Nusa Raya,Cengkareng Timur,Cengkareng,247,12,(021) 54397502,Banjir,-6.151542,106.740196
+SDN Cengkareng Timur 22 Pt.,Jl. Bangun Nusa Raya Rt 011/ Rw013,Cengkareng Timur,Cengkareng,241,12,(021) 54380285,Banjir,-6.15152,106.735008
+SDN Duri Kosambi 06 Pg.,Jl. Pondok Randu Raya,Duri Kosambi,Cengkareng,602,24,(021) 54393525,Banjir,-6.176613,106.723267
+SDN Kapuk 05 Pg.,Jl. Kapuk Raya Gg. Mawar,Kapuk,Cengkareng,335,12,(021) 54374617,Banjir,-6.138449,106.762711
+SDN Kapuk 06 Pg.,Jl. Tenis Raya,Kapuk,Cengkareng,445,18,(021) 54393738,Banjir,-6.144143,106.747398
+SDN Kapuk 09 Pg.,Jl. Ukir 2 Pedongkelan Rt.005/06,Kapuk,Cengkareng,533,18,(021) 54399518,Banjir,-6.14502,106.747345
+SDN Kapuk 10 Pt.,Jl. Ukir II Pedongkelan Kapuk,Kapuk,Cengkareng,480,18,(021) 5447635,Banjir,-6.14502,106.747345
+SDN Kapuk 11 Pg.,Jl. Ukir Kapuk,Kapuk,Cengkareng,384,12,(021) 34650171,Banjir,-6.1524,106.747902
+SDN Kedaung Kali Angke 03 Pg.,Komp. Dep. Agama Kalimati,Kedaung Kali Angke,Cengkareng,317,13,(021) 54396547,Banjir,-6.154489,106.762192
+SDN Kedaung Kali Angke 05 Pg,Jl. Tawang Mangu No.41,Kedaung Kali Angke,Cengkareng,315,12,(021) 54377931,Banjir,-6.152,106.760002
+SDN Kedaung Kali Angke 07 Pt.,Jl. Pesing Poglar Rt.004/01,Kedaung Kali Angke,Cengkareng,227,9,(021) 54396502,Banjir,-6.152074,106.770432
+SDN Kedaung Kali Angke 08 Pg.,Komplek Departemen Agama,Kedaung Kali Angke,Cengkareng,258,15,(021) 54376876,Banjir,-6.154587,106.762459
+SDN Kedaung Kali Angke 11 Pg.,Jl. Tawang Mangu,Kedaung Kali Angke,Cengkareng,284,11,(021) 54395291,Banjir,-6.152611,106.759415
+SDN Kedaung Kali Angke 12 Pg.,Komp. Dep. Agama Kalimati,Kedaung Kali Angke,Cengkareng,208,10,(021) 54395180,Banjir,-6.154,106.762001
+SDN Rawa Buaya 01 Pg.,Jl. Bojong Raya,Rawa Buaya,Cengkareng,321,14,(021) 58357385,Banjir,-6.166259,106.735924
+SDN Rawa Buaya 04 Pt.,Jl. Bojong Raya,Rawa Buaya,Cengkareng,348,11,(021) 58357384,Banjir,-6.16626,106.735924
+SDN Rawa Buaya 08 Pg.,Jl. Bojong Raya Rt. 002/ 04,Rawa Buaya,Cengkareng,425,15,(021) 58350682,Banjir,-6.168379,106.733101
+SDN Rawa Buaya 09 Pg.,Jl. Cempaka Raya No. 1 Kp.Klingkit,Rawa Buaya,Cengkareng,477,16,(012) 58354522,Banjir,-6.161142,106.744278
+SDN Rawa Buaya 10 Pt.,Jl. Cempaka Raya No.1 Kp. Klingkit,Rawa Buaya,Cengkareng,429,18,(021) 58357417,Banjir,-6.16082,106.744072
+SDS Anugerah,Jl. Kapuk Raya Gg. Sinar,Kapuk,Cengkareng,131,5,(021) 619207,Banjir,-6.13978,106.76342
+SDS Rahmani II,Jl. Durian V No. 1,Rawa Buaya,Cengkareng,90,10,(021) 5816291,Banjir,-6.164739,106.737778
+SDN Cilandak Barat 12 Pg.,Jl. Tmn Wijaya Kusuma III,Cilandak Barat,Cilandak,321,11,(021) 75910507,Banjir,-6.298859,106.803223
+SDN Gandaria Selatan 03 Pg.,Jl. Madrasah No. 45,Gandaria Selatan,Cilandak,165,9,(021) 75911413,Banjir,-6.26694,106.793694
+SDN Gandaria Selatan 04 Pg.,Jl. Madrasah No. 45 Gandaria Selatan,Gandaria Selatan,Cilandak,172,9,(021) 7667178,Banjir,-6.267469,106.796272
+SDN Lebak Bulus 03 Pg.,Jl. Pertanian III No. 58,Lebak Bulus,Cilandak,361,16,(021) 7698247,Banjir,0,0
+SDI Baburridho,Jl. Baru No.52,Kalibaru,Cilincing,240,9,(021) 4418163,Banjir,-6.101726,106.926895
+SDI Manba'ul Hikmah,Jl. Tipar cakung No. 2,Suka Pura,Cilincing,621,22,(021) 44830057,Banjir,-6.152618,106.926842
+SDN Cilincing 05 Pg.,Jl. Baru Gg II No.2A,Cilincing,Cilincing,349,11,(021) 44833163,Banjir,-6.104135,106.92955
+SDN Cilincing 09 Pg.,Jl. Bhakti VIII No. 12,Cilincing,Cilincing,540,19,(021) 44835367/44834475,Banjir,-6.107637,106.938019
+SDN Kali Baru 05 Pg.,Jl. Kalibaru Barat IV No. 60,Kalibaru,Cilincing,521,21,(021) 44833627,Banjir,-6.105555,106.92083
+SDN Kali Baru 09 Pg.,Jl. Kalibaru Timur VII No.5,Kalibaru,Cilincing,728,27,(021) 4400687,Banjir,-6.09818,106.934036
+SDN Rorotan 03 Pg.,Jl. Rorotan XI  NO. 30,Rorotan,Cilincing,375,16,(021) 44853274,Banjir,-6.143993,106.956367
+SDN Semper Barat 03 Pg.,Jl. Kapuas Raya,Semper Barat,Cilincing,392,16,(021) 4401514,Banjir,-6.123384,106.923775
+SDN Semper Barat 04 Pt.,Jl. Sungai Kapuas Raya,Semper Barat,Cilincing,313,16,(021) 44832015,Banjir,-6.123384,106.923775
+SDN Semper Barat 09 Pg.,Jl. F. No. 1 Kebon Baru,Semper Barat,Cilincing,386,20,(021) 4401613,Banjir,-6.116035,106.921867
+SDN Semper Barat 11 Pg.,Jl. Kapuas Raya,Semper Barat,Cilincing,456,19,(021) 4400289,Banjir,-6.125818,106.924515
+SDS Bambu Kuning,Jl. S. Sirem,Marunda,Cilincing,50,7,(021) 98138113,Banjir,-6.116361,106.958672
+SDS Islam Darus Syifa,Jl. S. Barito No. 45 Kp. Kurus,Semper Barat,Cilincing,130,11,(021) 44833909,Banjir,-6.129521,106.928558
+SDS Mahaprajna,Jl. Cilincing Lama No.3,Cilincing,Cilincing,0,16,(021) 4414543,Banjir,-6.100038,106.937233
+SDS Nurul Falah I,Jl. Dewa Kembar Komp. TNI AL,Semper Timur,Cilincing,190,10,(021) 44835354,Banjir,-6.11135,106.925301
+SDS Nurul Falah II,Jl. Dewa Kembar Komp. TNI AL,Semper Timur,Cilincing,184,10,(021) 44835354,Banjir,-6.11135,106.925301
+SDS Nurul Huda,Jl. Bakti IX  No. 27,Semper Timur,Cilincing,302,10,(021) 4408648,Banjir,-6.10858,106.935356
+SDS Pantai Indah,Jl. Kalibaru Timur,Kalibaru,Cilincing,456,12,(021) 4412759,Banjir,-6.100489,106.933708
+SDS Std. TKM II,Jl. Raya Cakung Cilincing No. 11,Semper Timur,Cilincing,242,10,(021) 4416136,Banjir,-6.1254,106.927544
+SDN Rambutan 03 Pg.,Jl. SD Inpres No. 1-2,Rambutan,Ciracas,705,31,(021) 8408127; 8416923,Banjir,-6.303188,106.875076
+SDN Duren Sawit 08 Pg.,Jl. Inspeksi Saluran No.39 A,Duren Sawit,Duren Sawit,420,14,(021) 8629139,Banjir,0,0
+SDN Klender 14 Pg.,Jl. Dermaga Baru,Klender,Duren Sawit,302,14,(021) 8630438,Banjir,0,0
+SDN Klender 15 Pg.,Jl. Dermaga Baru I,Klender,Duren Sawit,293,12,(021) 8622123,Banjir,0,0
+SDN Klender 16 Pg.,Jl. Dermaga Baru,Klender,Duren Sawit,314,11,(021) 8605646,Banjir,0,0
+SDN Klender 20 Pg.,Jl. Dermaga Baru I,Klender,Duren Sawit,312,14,(021) 86603077,Banjir,0,0
+SDN Pondok Bambu 15 Pg.,Jl. Balai Rakyat III No. 15,Pondok Bambu,Duren Sawit,371,13,(021) 8615488,Banjir,0,0
+SDN Pondok Kelapa 06 Pg.,Jl. AD. Lampiri Raya,Pondok Kelapa,Duren Sawit,644,26,(021) 8651227,Banjir,0,0
+PKBM Negeri 05 Paket A,Jl. Latumenten I No. 76,Jelambar,Grogol Petamburan,2,0,(021) 56976080,Banjir,0,0
+SDN Jelambar 06 Pg.,Jl. Kavling Polri Blok D.XIII,Jelambar,Grogol Petamburan,403,17,(021) 56966313,Banjir,-6.158849,106.784111
+SDN Jelambar Baru 01 Pg.,Jl. Jelambar Barat II E,Jelambar Baru,Grogol Petamburan,486,18,(021) 56961124,Banjir,-6.1457,106.784302
+SDN Jelambar Baru 07 Pg.,Jl. Sukajaya I,Jelambar Baru,Grogol Petamburan,339,15,(021) 5647660,Banjir,-6.15357,106.79081
+SDN Tanjung Duren Utara 02 Pg.,Jl. Tanjung Duren Utara III/ E,Tanjung Duren Utara,Grogol Petamburan,290,17,(021) 5640403,Banjir,-6.172409,106.783607
+SDN Wijaya Kusuma 04 Pt.,Jl. Perdana Raya No. 7,Wijaya Kusuma,Grogol Petamburan,170,9,(021) 56962814,Banjir,-6.152791,106.774261
+SDS Amitayus,Jl. Seni Budaya Raya No. 1,Jelambar Baru,Grogol Petamburan,175,10,(021) 5676717,Banjir,-6.151068,106.784698
+SDS Tunas Harapan,Jl. Komp. Bank BNI 46 Pesing,Wijaya Kusuma,Grogol Petamburan,0,13,0813 8570979,Banjir,-6.155419,106.771828
+SDN Bidaracina 03 Pg.,Jl. Setia No. 10,Bidara Cina,Jatinegara,324,17,0859 06091,Banjir,0,0
+SDN Bidaracina 05 Pg.,Jl. Tanjung Lengkong No.51,Bidara Cina,Jatinegara,397,17,(021) 9621727,Banjir,0,0
+SDN Cipinang Cempedak 05 Pg.,Jl. Bhineka IV Cawang Kavling,Cipinang Cempedak,Jatinegara,263,11,0859 02318,Banjir,-6.24197,106.872398
+SDN Cipinang Muara 21 Pg.,Jl. D Komplek Cipinang Indah,Cipinang Muara,Jatinegara,164,8,(021) 8574576,Banjir,0,0
+SDS Assalam Jaya,Jl. Kebon Nanas Selatan II/5,Cipinang Cempedak,Jatinegara,49,10,(021) 8198145,Banjir,0,0
+SDS Muhammadiyah 11,Jl. Tanjung Lengkong No. 04,Bidara Cina,Jatinegara,79,8,(021) 85917477,Banjir,0,0
+SDN Johar Baru 10 Pg.,Jl. Mardani Raya No.12 A,Johar Baru,Johar Baru,542,20,(021) 4209736,Banjir,-6.181745,106.859924
+SDN Lagoa 11 Pg.,JL. LAGOA TERUSAN GG. IV D.1 NO.1,Lagoa,K o j a,655,26,(021) 43905686,Banjir,-6.112239,106.914742
+SDN Rawa Badak Utara 03 Pg.,Jl. Alur Laut No.37,Rawa Badak Utara,K o j a,475,19,(021) 43905286,Banjir,-6.118336,106.898712
+SDN Rawa Badak Utara 15 Pg.,Jl. Rawa Badak Barat. No. 37,Rawa Badak Utara,K o j a,493,20,(021) 43903568,Banjir,-6.11904,106.901733
+SDN Rawa Badak Utara 17 Pg.,Jl. Rawa Badak Barat No. 37,Rawa Badak Utara,K o j a,327,13,(021) 43905614,Banjir,-6.11904,106.901733
+SDN Tugu Selatan 02 Pt.,Jl. Balai Rakyat No. 17,Tugu Selatan,K o j a,317,16,(021) 43904847,Banjir,-6.123014,106.915344
+SDN Tugu Utara 03 Pg.,Jl. Mangga Ujung No.3,Tugu Utara,K o j a,487,20,(021) 43911738,Banjir,-6.124719,106.910431
+SDN Tugu Utara 14 Pg.,Jl. Kramat Jaya Gg.VIII Blok  R No. 43,Tugu Utara,K o j a,276,10,(021) 44834962,Banjir,-6.120278,106.920624
+SDS Unwanus Saadah,Jl. Plumpang Semper,Tugu Utara,K o j a,236,8,(021) 43902900,Banjir,-6.12966,106.90435
+SDN Kalideres 05 Pg.,Jl. Peta Barat Rt. 004/ 07,Kalideres,Kalideres,341,15,(021) 5458889,Banjir,-6.143182,106.69265
+SDN Kalideres 13 Pt.,Jl. Peta Barat Rt. 004/07,Kalideres,Kalideres,329,13,(021) 54376435,Banjir,-6.136077,106.692001
+SDN Kalideres 14 Pt.,Jl. Peta Barat,Kalideres,Kalideres,339,13,(021) 54380803,Banjir,-6.142971,106.692986
+SDN Kamal 06 Pg.,Jl. Bakti Pramuka,Kamal,Kalideres,433,15,(021) 98182132,Banjir,-6.100449,106.708122
+SDN Pegadungan 05 Pg.,Jl. Peta Utara III No.47,Pegadungan,Kalideres,372,15,(021) 5447636,Banjir,-6.139718,106.700829
+SDN Pegadungan 07 Pg.,Jl. Irigasi Rawa Lele,Pegadungan,Kalideres,282,11,(021) 54398394,Banjir,-6.136379,106.692505
+SDN Pegadungan 13 Pg.,Jl. Utan Jati,Pegadungan,Kalideres,377,15,(021) 5449923,Banjir,-6.144228,106.713737
+SDN Pegadungan 14 Pg.,Jl. Utan Jati,Pegadungan,Kalideres,326,12,(021) 5408120,Banjir,-6.144399,106.713402
+SDN Pegadungan 15 Pt.,Jl. Irigasi,Pegadungan,Kalideres,350,11,(021) 54395690,Banjir,-6.13648,106.692703
+SDN Semanan 08 Pg.,Jl. Semanan No. 55,Semanan,Kalideres,380,14,(021) 54399279,Banjir,-6.167528,106.704048
+SDN Semanan 13 Pt.,Jl. Raya Semanan No. 55,Semanan,Kalideres,380,17,(021) 54372914,Banjir,-6.167469,106.704056
+SDN Tegal Alur 06 Pg.,Jl. Lingkungan III,Tegal Alur,Kalideres,304,12,(021) 5550501,Banjir,-6.105843,106.70887
+SDN Tegal Alur 07 Pg.,Jl. Lingkungan III Rt.01/03,Tegal Alur,Kalideres,279,13,(021) 55960638,Banjir,-6.105821,106.70887
+SDN Tegal Alur 11 Pg.,Komp. Kebersihan,Tegal Alur,Kalideres,250,11,(021) 55960614,Banjir,-6.127425,106.719559
+SDN Tegal Alur 17 Pg.,Jl. Kayu Besar,Tegal Alur,Kalideres,577,22,(021) 55960608,Banjir,-6.121619,106.729492
+SDN Gandaria Utara 01 Pg.,Jl. Gotong Royong II,Gandaria Utara,Kebayoran Baru,196,11,(021) 7228487,Banjir,-6.25934,106.794319
+SDN Gandaria Utara 11 Pg.,Jl. BRI Radio Dalam,Gandaria Utara,Kebayoran Baru,257,18,(021) 7260876,Banjir,-6.25831,106.791054
+SDS Bhakti Luhur,Jl. Wijaya I. Gg. Langgar No.1,Petogogan,Kebayoran Baru,179,10,(021) 7245324,Banjir,-6.245156,106.811501
+SDN Cipulir 11 Pg.,Jl. Samudra I,Cipulir,Kebayoran Lama,279,13,(021) 7232520,Banjir,-6.239119,106.775864
+SDN Grogol Selatan 07 Pg.,Jl. Kubur Islam,Grogol Selatan,Kebayoran Lama,269,12,(021) 72798656,Banjir,-6.2295,106.780602
+SDN Grogol Utara 09 Pg.,Jl. Kemandoran I,Grogol Utara,Kebayoran Lama,305,10,(021) 5362217,Banjir,0,0
+SDN Grogol Utara 10 Pg.,Jl. Kemandoran I No.40,Grogol Utara,Kebayoran Lama,244,10,(021) 5362753,Banjir,0,0
+SDN Grogol Utara 11 Pt.,Jl. Kemandoran I,Grogol Utara,Kebayoran Lama,178,9,(021) 53676483,Banjir,0,0
+SDN Grogol Utara 14 Pt.,Jl. Kemandoran I,Grogol Utara,Kebayoran Lama,140,10,(021) 5362753,Banjir,0,0
+SDN Keb. Lama Selatan 12 Pg.,Jl. Komp.Bina Marga T.Kusir,Kebayoran Lama Selatan,Kebayoran Lama,385,20,(021) 7238679,Banjir,0,0
+SDN Keb. Lama Utara 09 Pg.,Jl. Delman Asri IX NO.15,Kebayoran Lama Utara,Kebayoran Lama,395,17,(021) 7239610,Banjir,0,0
+SDN Keb. Lama Utara 13 Pg.,Jl. Peninggalan Barat  III,Kebayoran Lama Utara,Kebayoran Lama,278,14,(021) 7294753,Banjir,0,0
+PKBM Cita Kasih Bangsa Paket A,"Jl. Perjuangan No. 6 E-H, KEBON JERUK, JAK-BAR",Duri Kepa,Kebon Jeruk,0,0,"(021) 53662850, 53662806",Banjir,0,0
+SDN Duri Kepa 03 Pg.,Jl. Mangga Raya  No. 18,Duri Kepa,Kebon Jeruk,301,16,(021) 56944231,Banjir,-6.174629,106.774582
+SDN Duri Kepa 05 Pg.,Jl. Mangga XIV,Duri Kepa,Kebon Jeruk,498,18,(021) 29339605,Banjir,-6.172085,106.77282
+SDN Sukabumi Selatan 07 Pg.,Jl. Raya Pos Pengumben,Sukabumi Selatan,Kebon Jeruk,196,21,(021) 5364340,Banjir,-6.2175,106.772202
+SDN Sukabumi Utara 04 Pg.,Jl. Daud Raya,Sukabumi Utara,Kebon Jeruk,242,11,(021) 5363702,Banjir,-6.20665,106.772415
+SDN Sukabumi Utara 08 Pg.,JL. SULAIMAN,Sukabumi Utara,Kebon Jeruk,176,10,(021) 5301210,Banjir,-6.206177,106.781609
+SDN Sukabumi Utara 09 Pg.,Jl. Yusuf No.5,Sukabumi Utara,Kebon Jeruk,210,10,(021) 5301070,Banjir,-6.20736,106.780869
+SDN Kelapa Gading Tim. 01 Pg.,Jl. Puskesmas No. 32,Kelapa Gading Timur,Kelapa Gading,0,22,(021) 214529092,Banjir,-6.178877,106.905228
+SDS Jembatan Baru,Jl. Inspeksi Kali Sunter,Kelapa Gading Barat,Kelapa Gading,0,9,0858 14476187,Banjir,-6.160389,106.883652
+SDS Kasih Ananda,Jl. Raya Pengangsaan Dua No.3,Pegangsaan Dua,Kelapa Gading,441,18,(021) 4603005,Banjir,-6.169206,106.917564
+SDN Cempaka Baru 11 Pg.,Jl. Remaja II,Cempaka Baru,Kemayoran,327,9,(021) 42804304,Banjir,-6.16511,106.862961
+SDN Cempaka Baru 13 Pg.,Jl. Remaja II No. 57,Cempaka Baru,Kemayoran,250,10,(021) 4268390,Banjir,-6.2115,106.8452
+SDN Cempaka Baru 14 Pg.,Jl. Remaja II,Cempaka Baru,Kemayoran,211,10,(021) 4209573,Banjir,-6.164981,106.863541
+SDN Kemayoran 11 Pg.,Jl. Kemayoran Tengah,Kemayoran,Kemayoran,268,9,(021) 4259612,Banjir,-6.160661,106.853996
+SDN Kemayoran 14 Pt.,Jl. Kemayoran Tengah,Kemayoran,Kemayoran,169,5,(021) 4211654,Banjir,-6.1632,106.847504
+SDN Serdang 11 Pg.,Jl. Kp. Irian II No. 24,Serdang,Kemayoran,341,13,(021) 4211193,Banjir,-6.1571,106.867798
+SDN Sumur Batu 03 Pg.,Jl. Sumur Batu Utara No. 2,Sumur Batu,Kemayoran,210,11,(021) 4251219,Banjir,-6.15923,106.867081
+SDN Kembangan Selatan 01 Pg.,Jl. Raya Kembangan Rt.005/01,Kembangan Selatan,Kembangan,805,35,(021) 22580823,Banjir,-6.184716,106.728798
+SDN Kembangan Utara 04 Pg.,Jl. Raya Kembangan,Kembangan Utara,Kembangan,684,27,(021) 58350683,Banjir,-6.1049,106.442802
+SDN Kembangan Utara 05 Pg.,Jl. Kembangan Baru,Kembangan Utara,Kembangan,405,15,(021) 22580731,Banjir,-6.169057,106.75013
+SDN Kembangan Utara 06 Pg.,JALAN KAMPUNG BARU,Kembangan Utara,Kembangan,401,18,(021) 58358816,Banjir,-6.169057,106.75013
+SDN Kembangan Utara 07 Pt.,JALAN KAMPUNG BARU,Kembangan Utara,Kembangan,303,13,(021) 58303672,Banjir,-6.169057,106.75013
+SDN Bale Kambang 01 Pg.,Jl. Munggang Gg. Rawa Elok,Bale Kembang,Kramat Jati,406,14,(021) 8007910,Banjir,0,0
+SDN Batu Ampar 05 Pg.,Jl. SMPN 126,Batu Ampar,Kramat Jati,248,10,(021) 8004932,Banjir,0,0
+SDN Cililitan 03 Pg.,Jl. Ciliwung Rt. 08/ 016,Cililitan,Kramat Jati,339,11,(021) 8015250,Banjir,0,0
+SDN Kampung Tengah 05 Pg.,Jl. Pelita,Kampung Tengah,Kramat Jati,201,9,(021) 8414031,Banjir,0,0
+SDN Kampung Tengah 06 Pg.,Jl. Haji Ali,Kampung Tengah,Kramat Jati,300,15,(021) 8414209,Banjir,0,0
+SDN Kampung Tengah 09 Pg.,Jl. Haji Ali,Kampung Tengah,Kramat Jati,288,11,(021) 87792750,Banjir,-6.29278,106.861206
+SDN Kramat Jati 19 Pg.,Jl. BB Pasar Hek,Kramat Jati,Kramat Jati,293,16,(021) 80881742,Banjir,0,0
+SDN Cipinang Melayu 07 Pg.,Jl. Inspeksi Tarum Barat no.112,Cipinang Melayu,Makasar,374,16,(021) 8606966,Banjir,0,0
+SDN Cipinang Melayu 09 Pg.,Jl. Elang Thainesia Komp. Auri Curug Indah,Cipinang Melayu,Makasar,515,19,(021) 8602215,Banjir,-6.253875,106.914871
+SDN Cipinang Melayu 10 Pg.,Jl. Elang Thainesia,Cipinang Melayu,Makasar,431,19,(021) 8628977,Banjir,0,0
+SDN Halim 01 Pg.,Jl. Halim Golf Kp. Baru,Halim Perdana Kusumah,Makasar,576,23,(021) 8007115,Banjir,-6.2672,106.8778
+SDN Kebon Pala 11 Pg.,Jl. SD Inpres  No.28,Kebon Pala,Makasar,286,13,(021) 80885359,Banjir,0,0
+SDN Kebon Pala 13 Pg.,Jl. SD Inpres No.28,Kebon Pala,Makasar,223,9,(021) 80888756,Banjir,0,0
+SDN Kebon Pala 14 Pg.,Jl. SD Inpres,Kebon Pala,Makasar,209,11,(021) 80888148 / 98565170,Banjir,0,0
+SDN Kebon Pala 15 Pg.,Jl. SD Inpres,Kebon Pala,Makasar,180,9,(021) 80880687,Banjir,-6.5272,106.881203
+SDN Pinang Ranti 09 Pg.,Kp. Pulo,Pinang Ranti,Makasar,636,21,(021) 8008401,Banjir,0,0
+SDN Bangka 03 Pg.,Jl. Kemang Timur XI,Bangka,Mampang Prapatan,227,9,(021) 7199337,Banjir,-6.26587,106.824791
+SDN Bangka 05 Pg.,Jl. Kemang Selatan I,Bangka,Mampang Prapatan,173,10,(021) 7180943,Banjir,-6.26587,106.820198
+SDN Bangka 06 Pg.,Jl. Kemang Selatan I,Bangka,Mampang Prapatan,212,9,(021) 7181806,Banjir,-6.265088,106.790543
+SDN Bangka 07 Pg.,Jl. Kemang Timur XI,Bangka,Mampang Prapatan,170,12,(021) 7193611,Banjir,-6.26587,106.824791
+SDN Kuningan Barat 03 Pg.,Jl. PLN Kuningan Barat,Kuningan Barat,Mampang Prapatan,187,7,(021) 52963370,Banjir,-5.4438,114.421097
+SDN Pela Mampang 01 Pg.,Jl. Bangka II Gg. 5,Pela Mampang,Mampang Prapatan,326,14,(021) 7191185,Banjir,-6.241584,106.815277
+SDN Pela Mampang 05 Pg.,Jl. Pondok Jaya VI/ 1,Pela Mampang,Mampang Prapatan,348,19,(021) 7197175,Banjir,-6.24466,106.817406
+SDN Pela Mampang 12 Pg.,Jl. Bangka VII Bawah,Pela Mampang,Mampang Prapatan,241,9,(021) 7196619,Banjir,-6.2484,106.811478
+SDN Tegal Parang 06 Pg.,Jl. Mampang Prapatan XIII,Tegal Parang,Mampang Prapatan,186,10,(021) 7900418,Banjir,0,0
+SDN Tegal Parang 08 Pg.,Jl. Mampang Prapatan XIII,Tegal Parang,Mampang Prapatan,66,8,(021) 7901320,Banjir,0,0
+SDS Islam Ahdi,Kemang Raya 84,Bangka,Mampang Prapatan,103,13,(021) 7195383,Banjir,0,0
+SDS Kemala Bhayangkari 4,Jl. Pondok Karya II C / 22,Pela Mampang,Mampang Prapatan,124,9,(021) 71790181,Banjir,-6.242775,106.823746
+SDN Kebon Manggis 01 Pg.,Jl. Slamet Riyadi II/ 7B,Kebon Manggis,Matraman,161,7,(021) 8515130,Banjir,0,0
+SDN Kebon Manggis 12 Pt.,Jl. Kesatrian VIII No. 28 H,Kebon Manggis,Matraman,136,6,(021) 70984029,Banjir,0,0
+SDN Pisangan Baru 13 Pg.,Jl. Pisangan Baru Utara,Pisangan Baru,Matraman,219,12,(021) 8191916,Banjir,0,0
+SDN Utan Kayu Selatan 14 Pg.,Jl. Galur Sari Timur,Utan Kayu Selatan,Matraman,232,10,(021) 8191849,Banjir,0,0
+SDN Utan Kayu Selatan 16 Pg.,Jl. Galur Sari Timur,Utan Kayu Selatan,Matraman,202,10,(021) 8518948,Banjir,-6,106
+SDN Utan Kayu Selatan 21 Pg.,Jl. Galur Sari VIII,Utan Kayu Selatan,Matraman,376,17,(021) 85908463,Banjir,0,0
+SDN Utan Kayu Utara 08 Pg.,Jl. Galur Sari Rt. 003/07,Utan Kayu Utara,Matraman,203,9,(021) 85906533,Banjir,1.922,3.257
+SDN Pademangan Barat 01 Pg.,Jl. Ampera III  Gng. Sahari,Pademangan Barat,Pademangan,615,25,(021) 64717470,Banjir,-6.135637,106.833679
+SDN Jati Pulo 07 Pg.,Jl. Teratai Rt. 004/ 01No.17,Jati Pulo,Palmerah,417,13,(021) 70709807,Banjir,-6.179298,106.798996
+SDN Jati Pulo 08 Pg.,Jl. Seroja No. 16,Jati Pulo,Palmerah,327,15,(021) 56940088,Banjir,-6.180395,106.798859
+SDN Kota Bambu 01 Pg.,Komp. PJKA Pondok Bandung,Kota Bambu Utara,Palmerah,429,16,(021) 5634427,Banjir,-6.183332,106.809235
+SDN Kota Bambu 07 Pg.,Jl. K.S. Tubun I No. 2,Kota Bambu Selatan,Palmerah,290,9,(021) 98183312,Banjir,-6.187249,106.810234
+SDN Palmerah 15 Pg.,Komp. Sandang,Palmerah,Palmerah,342,15,(021) 5320237,Banjir,-6.195689,106.789207
+SDN Palmerah 17 Pg.,Komp. Sandang,Palmerah,Palmerah,378,16,(021) 5307714,Banjir,-6.195689,106.789207
+SDN Palmerah 19 Pg.,Jl. Rawa Belong II/ E,Palmerah,Palmerah,318,15,(021) 5329888,Banjir,-6.203663,106.78421
+SDN Palmerah 20 Pg.,Jl. Rawa belong II/E,Palmerah,Palmerah,238,13,(021) 5363575,Banjir,-6.20355,106.785004
+SDN Palmerah 22 Pg.,Jl. Palmerah Barat VI,Palmerah,Palmerah,334,12,(021) 5364356,Banjir,-6.203432,106.784622
+SDN Palmerah 23 Pg.,Jl. Rawa Belong II/E No.153,Palmerah,Palmerah,315,14,(021) 53675765,Banjir,-6.202509,106.786987
+SDS Nurul Huda,Jl. Nurul Huda No. 12A,Jati Pulo,Palmerah,80,6,(021) 5650626,Banjir,-6.197849,106.787292
+SDN Duren Tiga 13 Pg.,Jl. K. H. Ismail No. 121,Duren Tiga,Pancoran,142,19,(021) 7983061,Banjir,-6.259149,106.834663
+SDN Duren Tiga 14 Pg.,Jl. Kalibata Utara VI / 28,Duren Tiga,Pancoran,167,8,(021) 7991264,Banjir,-6.25916,106.838364
+SDN Kalibata 04 Pg.,Jl. Kalibata Timur IV/ E,Kalibata,Pancoran,283,13,(021) 7984583,Banjir,0,0
+SDN Kalibata 07 Pg.,Jl. Kalibata Timur IVG,Kalibata,Pancoran,177,9,(021) 7901190,Banjir,0,0
+SDN Kalibata 08 Pg.,Jl. Kalibata Timur IV,Kalibata,Pancoran,49,10,(021) 7900391,Banjir,0,0
+SDN Pancoran 07 Pg.,Jl. Pancoran Barat VIII/A,Pancoran,Pancoran,233,11,(021) 7988578,Banjir,-6.247445,106.836182
+SDN Pancoran 08,Jl. Pancoran Barat VIII,Pancoran,Pancoran,334,17,(021) 79188930,Banjir,0,0
+SDN Pancoran 10 Pg.,Jl. Pancoran Barat VIII,Pancoran,Pancoran,255,11,(021) 7981105,Banjir,-6.2473,106.835701
+SDN Rawajati 06 Pg.,Jl. Rawajati Barat II,Rawajati,Pancoran,180,8,(021) 79196618,Banjir,0,0
+SDN Rawajati 07 Pg.,Jl. Komp. Zeni AD VIII,Rawajati,Pancoran,329,13,0879 198783,Banjir,-6.262318,106.857864
+SDN Pasar Minggu 04 Pg.,Jl. Rawa Bambu I,Pasar Minggu,Pasar Minggu,244,13,0878 830124,Banjir,-6.292007,106.838776
+SDN Pejaten Timur 15 Pg.,Jalan Siaga Dharma VIII No. 19,Pejaten Timur,Pasar Minggu,148,10,(021) 7989733,Banjir,-6.269554,106.847961
+SDN Pejaten Timur 22 Pg.,Jl. Rukun Pejaten Timur,Pejaten Timur,Pasar Minggu,150,10,(021) 7948791,Banjir,0,0
+SDS Azhari Islamic School Cilandak,Jl. Jeruk Purut No. 10,Cilandak Timur,Pasar Minggu,103,10,0878 838073,Banjir,0,0
+SDN Gedong 05 Pg.,Jl. Surilang No. 8,Gedong,Pasar Rebo,525,21,0877 99407,Banjir,0,0
+SDN Gedong 11 Pg.,Jl. H. Taiman Barat II,Gedong,Pasar Rebo,264,13,0877 92538,Banjir,0,0
+SDN Kalisari 04 Pg.,Jl. Raya Kalisari,Kalisari,Pasar Rebo,270,11,(021) 8728239,Banjir,0,0
+PKBM AULIA,Jl. C No. 205 A Teluk Gong,Pejagalan,Penjaringan,28,7,0813 16630112,Banjir,0,0
+SDN Kapuk Muara 01 Pg.,Jl. Raya Kpk Muara Rt. No.9,Kapuk Muara,Penjaringan,644,23,(021) 54399862,Banjir,-6.136765,106.775238
+SDN Kapuk Muara 04 Pt.,Jl. SMP 122,Kapuk Muara,Penjaringan,155,9,(021) 54392218,Banjir,-6.138216,106.763504
+SDN Kapuk Muara 05 Pg.,Jl. SMPN 122,Kapuk Muara,Penjaringan,511,23,(021) 54377982,Banjir,-6.138851,106.763092
+SDN Pejagalan 03,Jl. Raya Teluk Gong No. 160,Pejagalan,Penjaringan,603,23,(021) 66697374,Banjir,-6.138332,106.777267
+SDN Pejagalan 05,Jl. V Teluk Gong,Pejagalan,Penjaringan,579,24,(021) 6670760,Banjir,-6.13833,106.777252
+SDN Pejagalan 09 Pg.,Jl. Cenang  I Teluk Gong,Pejagalan,Penjaringan,540,27,(021) 6626073,Banjir,-6.133401,106.781006
+SDN Bintaro 05 Pg.,Jl. Komplek. IKPN,Bintaro,Pesanggrahan,379,16,(021) 73884367,Banjir,-6.261294,106.772072
+SDN Petukangan Selatan 01,Jl. Sangrila Indah II,Petukangan Selatan,Pesanggrahan,602,20,(021) 7374949,Banjir,0,0
+SDN Petukangan Selatan 02 Pg.,"Jl. Sakti VII, Sangrila Indah 2",Petukangan Selatan,Pesanggrahan,558,21,(021) 7351063,Banjir,0,0
+SDN Petukangan Utara 09 Pg.,Jl. H. Jaelani I,Petukangan Utara,Pesanggrahan,541,20,(021) 73887689,Banjir,0,0
+SDN Ulujami 01 Pg.,Jl. H. Buang,Ulujami,Pesanggrahan,381,14,(021) 73884645,Banjir,-6.2645,106.768097
+SDN Ulujami 04 Pg.,Jl. H. ROHIMIN,Ulujami,Pesanggrahan,410,19,(021) 5865636,Banjir,6.23246,106.761864
+SDN Ulujami 07 Pg.,Jl. H. Rohimin,Ulujami,Pesanggrahan,376,15,(021) 5861158,Banjir,7609,1944
+SDN Jati 04 Pt.,Jl. Taman Pulo Asem tara,Jati,Pulo Gadung,247,12,(021) 478668044,Banjir,0,0
+SDN Jatinegara Kaum 11 Pg.,Jl. TB.Badarudin - Tanah Koja,Jatinegara Kaum,Pulo Gadung,335,13,(021) 4752901,Banjir,-6.2091,106.896202
+SDN Kayu Putih 08 Pg.,Jl. Batu Sulaeman No. 2,Kayu Putih,Pulo Gadung,292,9,(021) 47863703,Banjir,0,0
+SDN Kayu Putih 09 Pg.,Jl. Pulo Mas Barat V No.4,Kayu Putih,Pulo Gadung,344,18,(021) 4716524/4893232,Banjir,0,0
+SDN Pisangan Timur 10 Pg.,Jl. Gading Raya  I,Pisangan Timur,Pulo Gadung,201,8,(021) 47863355,Banjir,0,0
+SDN Pisangan Timur 13 Pg.,Jl. Haji Mugeni  II,Pisangan Timur,Pulo Gadung,522,25,(021) 4702331,Banjir,-6.2087,106.876297
+SDN Pisangan Timur 18 Pg.,Jl. Gading Raya  I,Pisangan Timur,Pulo Gadung,372,20,(021) 47869114,Banjir,0,0
+SDN Pisangan Timur 20 Pg.,Jl. Gading Raya  I,Pisangan Timur,Pulo Gadung,306,21,(021) 47867552,Banjir,0,0
+SDN Pulogadung 05 Pg.,Jl. Kayu Putih IV No. 3,Pulo Gadung,Pulo Gadung,475,20,(021) 4700450,Banjir,0,0
+SDN Pulogadung 07 Pg.,Jl. Kayu Putih I,Pulo Gadung,Pulo Gadung,487,21,(021) 4704790,Banjir,0,0
+SDS Don Bosco II,Jl. Pulo Mas Barat V,Kayu Putih,Pulo Gadung,462,42,(021) 4751703,Banjir,0,0
+SDN Pasar Baru 11 Pg.,Jl. Kelinci Raya No. 28   Pasar Baru,Pasar Baru,Sawah Besar,344,17,(021) 3502354,Banjir,-6.159711,106.828667
+SDN Kuningan Timur 01 Pg.,Jl. KH. Mugni Gg. SD,Kuningan Timur,Setia Budi,137,12,(021) 5214285,Banjir,0,0
+SDN Kebon Baru 07 Pg.,Jl. Asem Baris II,Kebon Baru,T e b e t,196,12,(021) 83705162,Banjir,6.231908,106.858673
+SDN Kebon Baru 11 Pg.,Jl. H. No. 40 A,Kebon Baru,T e b e t,298,12,(021) 8357357,Banjir,0,0
+SDS Muhammadiyah 52,Jl. Kampung Melayu Kecil I No.52,Bukit Duri,T e b e t,117,9,(021) 8311478,Banjir,0,0
+SDS Perguruan Rakyat 2,Jl. Kp. Melayu Kecil I No. 38,Bukit Duri,T e b e t,151,8,(021) 8304464,Banjir,-6.224313,106.859879
+SDN Mangga Besar 01 Pg.,Jl. Sekolah Tangki No. 141,Mangga Besar,Taman Sari,182,10,(021) 6595062,Banjir,-6.148378,106.817619
+SDN Mangga Besar 03 Pg.,Jl. Sekolah Tangki No. 141,Mangga Besar,Taman Sari,180,9,(021) 6247660,Banjir,-6.148378,106.817619
+SDN Mangga Besar 05 Pg.,Jl. Sekolah Tangki No. 141,Mangga Besar,Taman Sari,149,8,(021) 62200273,Banjir,-6.14831,106.817688
+SDN Mangga Besar 07 Pg.,Jl. Sekolah Tangki No. 141,Mangga Besar,Taman Sari,183,9,(021) 6288026,Banjir,-6.148378,106.817619
+SDN Maphar 01 Pg.,Jl. Kebun Jeruk VII No. 5,Maphar,Taman Sari,293,16,(021) 6243302,Banjir,-6.15406,106.81321
+SDS Rahmani,Jl. Mangga Besar XI/10,Tangki,Taman Sari,194,11,(021) 6254126,Banjir,-6.147697,106.825645
+SDN Tambora 01 Pg.,Jl. Perniagaan No. 31,Tambora,Tambora,276,16,(021) 6907726,Banjir,-6.141904,106.808983
+SDN Tambora 03 Pg.,Jl. Perniagaan No. 31,Tambora,Tambora,263,13,(021) 6911470,Banjir,-6.141904,106.808983
+SDN Tanah Sereal 01 Pg.,Jl. Pekapuran Raya No. 66,Tanah Sareal,Tambora,306,11,(021) 6319058,Banjir,-6.15012,106.811684
+SDS Islam Tambora,Jl. Tambora Mesjid No. 11,Tambora,Tambora,115,8,(021) 6328948,Banjir,-6.145121,106.810158
+SDN Karet Tengsin 01 Pg.,Jl. Karet Pasar Baru Tim. 3,Karet Tengsin,Tanah Abang,148,9,(021) 97958377,Banjir,-6.201973,106.816696
+SDN Petamburan 05 Pg.,Jl. Petamburan II/33,Petamburan,Tanah Abang,269,14,(021) 53650301,Banjir,-6.19293,106.807182
+SDN Petamburan 06 Pt.,Jl. Petamburan II,Petamburan,Tanah Abang,246,13,(021) 53650474,Banjir,-6.19293,106.807182
+SDN Petamburan 07 Pg.,Jl. Petamburan II no. 33,Petamburan,Tanah Abang,327,22,-,Banjir,-6.19293,106.807182
+SDN Sunter Agung 05 Pg.,Jl. Agung Utara No. 13,Sunter Agung,Tanjung Priok,537,22,(021) 6510167,Banjir,-6.134749,106.858383
+SDN Sunter Agung 07 Pg.,Jl. Danau Agung  III Blok E3,Sunter Agung,Tanjung Priok,455,18,(021) 65302454,Banjir,-6.147349,106.859741
+SDN Sunter Agung 09 Pg.,Jl. Sunter Permai Raya No.21,Sunter Agung,Tanjung Priok,498,20,(021) 65837079,Banjir,-6.127902,106.859062
+SDN Sunter Agung 12 Pg.,Jl. Paradise 10 Blok F. 19-20,Sunter Agung,Tanjung Priok,349,15,(021) 6450795,Banjir,-6.139619,106.866997
+SDN Sunter Agung 13 Pg.,Jl. RS. Ancol Komp.Graha Str Pratama,Sunter Agung,Tanjung Priok,404,15,(021) 65305474,Banjir,-6.134379,106.852577
+SDS Cokroaminoto,Jl. Warakas lV Gg. 18 No. 35,Warakas,Tanjung Priok,132,8,0853 12358533,Banjir,-6.12302,106.873718
+SDS Eirene,Jl. Gadang No. 77,Sungai Bambu,Tanjung Priok,52,5,(021) 43930518,Banjir,-6.11558,106.882378
+SDS Mas Intan,Jl. Kp. Bahari III  A9 No. 165,Tanjung Priok,Tanjung Priok,70,9,(021) 99829340,Banjir,-6.118949,106.87265
+PKBM Alfa Omega Pulo Gebang Paket B,Jln. P. Komarudin sisi Tol Timur,Pulo Gebang,Cakung,13,1,n.a,Banjir,0,0
+SMP Negeri 144,Jl. Raya Bekasi Km. 23 Cakung,Cakung Barat,Cakung,0,39,(021) 4617313,Banjir,-6.18134,106.938904
+SMP Cempaka,Jl. Cemp. Putih Barat 21,Cempaka Putih Barat,Cempaka Putih,0,20,(021) 4204285,Banjir,-6.180209,106.86631
+SMP Negeri 77,Jl. Cemp. Putih Tengah XVIII,Cempaka Putih Timur,Cempaka Putih,633,34,(021) 4245377,Banjir,-6.17283,106.872169
+SMP Al-Jihad,Jl. Kapuk Kebun Jahe,Kapuk,Cengkareng,110,11,(021) 83473684,Banjir,-6.133388,106.748718
+SMP Eka Sakti,Jl. Ukir Raya No. 30A,Cengkareng Timur,Cengkareng,16,13,(021) 5453289,Banjir,-6.140447,106.770432
+SMP K Rahmani 2,Jl. Durian V No. 1,Rawa Buaya,Cengkareng,41,9,(021) 5816291,Banjir,-6.164711,106.737709
+SMP Kesatuan,Jl. Kesatuan No. 1 Klingkit,Rawa Buaya,Cengkareng,264,14,(021) 58300174,Banjir,-6.16101,106.73558
+SMP Merdeka Sari,Jl. Kapuk,Kapuk,Cengkareng,200,9,(021)70617333,Banjir,-6.13872,106.753235
+SMP Negeri 132,Jl. Tawangmangu No.2,Kedaung Kali Angke,Cengkareng,746,28,(021) 6198897,Banjir,-6.153414,106.7593
+SMP Negeri 201,Jl. Kayu Besar,Cengkareng Timur,Cengkareng,762,39,(021) 5553675,Banjir,-6.124415,106.740311
+SMP Negeri 249,Jl. Jaya 25 No.41,Cengkareng Barat,Cengkareng,902,35,(021) 5550245,Banjir,-6.110546,106.715523
+SMP Ar Ridha,Jl. Teluk Semangka No. 103 Komp. BP,Suka Pura,Cilincing,114,15,(021) 4415206,Banjir,-6.115688,106.911636
+SMP At Taqwa,Jl. Dukuh Timur,Semper Barat,Cilincing,0,11,(021) 4403776,Banjir,-6.123713,106.926605
+SMP Kasih Immanuel,Jl. Cacing Kp. Sawah Blok  B No 16,Semper Timur,Cilincing,46,10,(021) 4416946,Banjir,-6.135039,106.939537
+SMP Maha Prajna,Jl. Cilincing Lama No. 3,Cilincing,Cilincing,0,12,(021) 4414543,Banjir,-6.110127,106.937576
+SMP Manba'ul Hikmah,Jl. Tipar No. 2,Suka Pura,Cilincing,146,14,(021) 4404973,Banjir,-6.147819,106.924721
+SMP Negeri 266,Jl. Cilincing Bakti VI,Cilincing,Cilincing,842,38,(021) 4402745,Banjir,-6.109982,106.937973
+SMP Nurul Falah,Jl. Dewa Kembar,Semper Timur,Cilincing,273,20,(021) 4416278,Banjir,-6.111475,106.924881
+SMP Sari Putra,Jl. KEBON BARU BLOK X GG IV NO:25,Semper Barat,Cilincing,221,11,(021) 4407177,Banjir,-6.138328,106.919838
+SMP St. Fransiskus Xaverius III,Jl. Raya Cakung Cilincing No.11,Semper Timur,Cilincing,141,7,(021)4407047,Banjir,-6.11558,106.939873
+SMP Negeri 210,Jl. Raya Centex,Ciracas,Ciracas,767,40,(021) 8411183,Banjir,-6.322358,106.890991
+SMP Negeri 257,Jl. Kelurahan Rambutan,Rambutan,Ciracas,854,40,(021) 8404160,Banjir,-6.307689,106.871094
+SMP Negeri 257 Terbuka,Jl. Kelurahan Rambutan,Rambutan,Ciracas,95,17,(021) 8404160,Banjir,-6.307621,106.87149
+SMP Negeri 165,Jl. Balai Rakyat III No.16,Pondok Bambu,Duren Sawit,639,26,(021) 8614106,Banjir,-6.225135,106.90255
+SMP Negeri 274,Jl. Empang Bahagia Raya 4B,Jelambar,Grogol Petamburan,577,27,(021) 5684386,Banjir,-6.159244,106.790253
+SMP Negeri 286,JL.RAWA KEPA VIII,Tomang,Grogol Petamburan,541,25,(021) 5637038,Banjir,-6.170631,106.802406
+SMP Negeri 82,Jl. Komp. BDN Pesing,Wijaya Kusuma,Grogol Petamburan,801,41,(021) 5667126,Banjir,-6.154416,106.753433
+SMP Pancaran Berkat,Jl. Setia Jaya Raya No. 100,Jelambar Baru,Grogol Petamburan,137,12,(021) 5638992/3,Banjir,-6.151746,106.79113
+SMP Tunas Harapan,Jl. Komp. BNI Pesing,Wijaya Kusuma,Grogol Petamburan,238,14,(021) 91214011 / 5680445,Banjir,-6.155389,106.77272
+SMP Darul Arqon,Jl. Bekasi Timur VI,Cipinang Besar Utara,Jatinegara,104,15,(021) 8506236,Banjir,-6.217086,106.878319
+SMP Dewi Sartika,Jl. Kebon Nanas Utara II/23,Cipinang Cempedak,Jatinegara,380,18,(021) 8569429,Banjir,-6.230669,106.872353
+SMP Negeri 148,Jl. BB. I. Cipinang Muara,Cipinang Muara,Jatinegara,666,30,(021) 8199585,Banjir,-6.218934,106.894928
+SMP Negeri 25,Jl. BB. I. Cipinang Muara,Cipinang Muara,Jatinegara,702,32,(021) 8195679,Banjir,-6.219064,106.895134
+SMP Negeri 28,Jl. Mardani No.17,Johar Baru,Johar Baru,778,30,(021) 4246165,Banjir,-6.182718,106.861946
+SMP Negeri 28 Terbuka,Jl. Mardani No. 17,Johar Baru,Johar Baru,180,11,(021) 4246165,Banjir,-6.182718,106.861946
+SMP PGRI 25,Jl. Mardani Raya No. 12 A,Johar Baru,Johar Baru,358,5,(021) 4200212,Banjir,-6.181376,106.860222
+SMP Al-Irsyad Al-Islamiyah,Jl. Mindi Raya No. 29-35,Lagoa,K o j a,373,18,(021) 43933542 / 43935713,Banjir,-6.11525,106.904167
+SMP Karya Bahari,Jl. Mindi No. 36,Lagoa,K o j a,0,11,(021) 43909933,Banjir,-6.110759,106.917221
+SMP Muhammadiyah 14,Jl. H. Murtadho No. 2A,Tugu Utara,K o j a,0,12,(021) 4372430,Banjir,-6.128865,106.910042
+SMP Negeri 279,Jl. Mahoni No. 44,Lagoa,K o j a,638,29,(021) 43935194,Banjir,-6.116427,106.194267
+SMP Nusantara,Jl. Kramat Jaya Gg. VIII,Tugu Utara,K o j a,231,17,(021) 4408883,Banjir,-6.1154,106.920502
+SMP Al Mu'min,Jl. Kapuk Kamal,Tegal Alur,Kalideres,169,12,(021) 60200732,Banjir,-6.113281,106.722206
+SMP Negeri 125,Jl. Utan Jati,Pegadungan,Kalideres,631,25,(021) 5417532/29029082,Banjir,-6.148107,106.713943
+SMP Negeri 204,Jl. Peta Utara Pegadungan,Pegadungan,Kalideres,630,23,(021) 5450436,Banjir,-6.139639,106.700989
+SMP PGRI 39,Jl. Komplek Kebersihan No.17,Tegal Alur,Kalideres,137,16,(021) 55952679,Banjir,-6.127742,106.719269
+SMP Yapis,Jl. Lingkungan III No. 25,Tegal Alur,Kalideres,148,10,(021) 5556736,Banjir,-6.107479,106.710152
+SMP Negeri 240,Jl. H. Raya No. 16 B,Gandaria Utara,Kebayoran Baru,817,31,(021) 7204711,Banjir,-6.262252,106.790382
+SMP Negeri 31,Jl. Peninggaran Barat III,Kebayoran Lama Utara,Kebayoran Lama,784,39,(021) 7239730,Banjir,-6.248274,106.780533
+SMP Negeri 66,Jl. Masjid An-Nur Grogol Selatan,Grogol Selatan,Kebayoran Lama,524,24,(021) 7262921,Banjir,-6.22157,106.784332
+SMP Abdi Siswa,Jl. Patra Raya Tomang Raya No. 1,Duri Kepa,Kebon Jeruk,119,14,(021) 5659055,Banjir,-6.182425,106.779785
+SMP Al Mukhlish,Jl. Asia Baru Duri Kepa No. 60,Duri Kepa,Kebon Jeruk,244,14,(021) 5674776,Banjir,-6.175426,106.775726
+SMP Bina Utama,Jl. Kepa Timur Raya No. 1,Duri Kepa,Kebon Jeruk,67,11,(021) 71026227,Banjir,-6.180202,106.775352
+SMP Negeri 220,Jl. Mangga I,Duri Kepa,Kebon Jeruk,690,31,(021) 5687919,Banjir,-6.17579,106.778969
+SMP Provedentia,Jl. Raya Kedoya NO.35 Grenn Garden,Kedoya Utara,Kebon Jeruk,160,15,(021) 5652477-5652459,Banjir,-6.166385,106.763794
+SMP Rasa Sayang,Jl. Komp. Taman Ratu Blk F/13,Duri Kepa,Kebon Jeruk,49,13,(021) 5643280,Banjir,-6.171873,106.768791
+SMP Santo Andreas,Jl. Komplek Green Garden Blok J5 No.1,Kedoya Utara,Kebon Jeruk,95,11,(021) 5804058,Banjir,-6.16766,106.76091
+SMP Widuri Jaya,Jl. Duri Mas Raya No. 1,Duri Kepa,Kebon Jeruk,73,12,(021) 5605159,Banjir,-6.177799,106.771523
+SMP Negeri 10,Jl. Sumur Batu,Sumur Batu,Kemayoran,718,35,(021) 4241406,Banjir,-6.163451,106.865074
+SMP Negeri 183,"Jl. Cempaka Baru VII, No. 47",Cempaka Baru,Kemayoran,473,21,(021) 4245884,Banjir,-6.170851,106.860985
+SMP Paskalis 3,"Jl. Ranjau No. 13, Komplek Kodam",Sumur Batu,Kemayoran,217,12,(021) 4220556,Banjir,-6.171803,106.862411
+SMP Negeri 126,Jl. SMP 126,Batu Ampar,Kramat Jati,895,50,(021) 8094151,Banjir,-6.27249,106.862373
+SMP Negeri 268,Jl. SD Inpres,Kebon Pala,Makasar,875,51,(021)8007517,Banjir,-6.257953,106.881622
+PKBM AS-SAMAWAAT,Jl. Bangka III No. 6,Pela Mampang,Mampang Prapatan,15,1,n.a,Banjir,0,0
+SMP Negeri 141,Jl. Pondok Jaya VIII/15 B,Pela Mampang,Mampang Prapatan,746,37,(021) 7192868,Banjir,-6.24905,106.82222
+SMP Negeri 141 Terbuka,Jl. Pondok Jaya VIII/15B,Pela Mampang,Mampang Prapatan,22,29,(021) 7192868,Banjir,-6.24905,106.82222
+SMP Pembangunan,Jl. Pengayoman III no. 95,Utan Kayu Utara,Matraman,232,15,(021) 8509012,Banjir,-6.194004,106.871269
+SMP Negeri 238,Jl. Kalibata VI No. 2,Duren Tiga,Pancoran,602,33,(021) 7991565,Banjir,-6.24526,106.842545
+SMP Negeri 46,Jl. Rukun Pejaten Timur,Pejaten Timur,Pasar Minggu,412,23,(021) 7988153,Banjir,-6.271568,106.855103
+SMP Negeri 179,Jl. Kalisari,Kalisari,Pasar Rebo,960,52,(021) 8711073,Banjir,-6.331246,106.852509
+SMP Negeri 179 Terbuka,Jl. Kalisari,Kalisari,Pasar Rebo,82,21,(021) 8711073,Banjir,-6.331246,106.852509
+PKBM AULIA,Jl. C No. 205 A Teluk Gong,Pejagalan,Penjaringan,23,7,,Banjir,0,0
+SMP Negeri 112,Jl. Al Teluk Gong Pejagalan,Pejagalan,Penjaringan,791,32,(021) 6630332,Banjir,-6.130887,106.786995
+SMP Negeri 122,Jl. SMP 122 No. 26,Kapuk Muara,Penjaringan,818,38,(021) 70288122,Banjir,-6.13531,106.763992
+SMP Negeri 261,Jl. Muara Angke Pluit,Pluit,Penjaringan,691,29,(021) 6682126,Banjir,-6.116576,106.779152
+SMP Negeri 261 Terbuka,Jl. Muara Angke,Pluit,Penjaringan,191,21,(021) 6682126,Banjir,-6.116576,106.779152
+SMP Permata Indah,Jl. Kampung Gusti Blok A/1,Pejagalan,Penjaringan,286,16,(021) 6680801,Banjir,-6.139386,106.778564
+SMP Bina Kusuma,Jl. Merpati Raya No. 38,Pesanggrahan,Pesanggrahan,35,11,(021) 7354605,Banjir,-6.25017,106.759521
+SMP Negeri 232,Jl. Gading Raya No. 16,Pisangan Timur,Pulo Gadung,848,37,(021) 4712538,Banjir,-6.202934,106.882339
+SMP Negeri 15,Jl. Prof. Supomo Menteng,Menteng Dalam,T e b e t,708,23,(021) 8312669,Banjir,-6.230881,106.846153
+SMP Perguruan Rakyat 02,Jl. Kampung Melayu Kecil I,Bukit Duri,T e b e t,141,11,(021) 8304464,Banjir,-6.224313,106.859879
+SMP Islam Chairiyah Mansuriyah,Jl. Sawah Lio I No. 30,Jembatan Lima,Tambora,268,16,(021) 6300599,Banjir,-6.146787,106.804688
+SMP Negeri 159,Jl. Jembatan Besi Raya No. 24,Jembatan Besi,Tambora,566,28,(021)6302655,Banjir,-6.152732,106.796127
+SMP Al Islamiyah,Jl. Sunter Jaya VI No. 16,Sunter Jaya,Tanjung Priok,232,16,(021) 6515255,Banjir,-6.159041,106.874062
+SMP Bangun,Jl. Lanji No. 2,Papanggo,Tanjung Priok,61,11,(021) 65835693,Banjir,-6.129749,106.873917
+SMP Darma Putra,Jl. Swasembada Barat X/92,Kebon Bawang,Tanjung Priok,111,17,(021) 43038183,Banjir,-6.12254,106.886353
+SMP Negeri 140,Jl. Komp. Sekneg Blok A.,Sunter Agung,Tanjung Priok,614,28,(021) 6459389,Banjir,-6.13607,106.859238
+SMP Negeri 282,Jl. Taman Nyiur (BI),Sunter Agung,Tanjung Priok,645,35,(021) 6505777,Banjir,-6.13872,106.866501
+SMP Nurul Iman,Jl. Lagoa Kanal Komp. TNI-AD Kebon Bawang,Kebon Bawang,Tanjung Priok,246,12,(021) 4353794,Banjir,-6.113203,106.887848
+SMP Perintis Nasional,Jl. Swasembada Timur X/2,Kebon Bawang,Tanjung Priok,97,10,(021) 4353062,Banjir,-6.123089,106.889549
+SMP St. Lukas II,Jl. Baru Ancol Selatan Rt.012/06 No. 1,Sunter Agung,Tanjung Priok,169,13,(021) 6507574,Banjir,-6.146519,106.863434
+SMP Wiyatamandala,Jl. Swasembada Timur XIII No. 46-50,Tanjung Priok,Tanjung Priok,18,10,(021) 4301158,Banjir,-6.121919,106.891037
+PKBM Alfa Omega Pulo Gebang Paket C,Jln. P. Komarudin Sisi Tol Timur,Pulo Gebang,Cakung,12,1,0853 11003651,Banjir,0,0
+SMA Cempaka,Jl. Cempaka Putih Barat XXI,Cempaka Putih Barat,Cempaka Putih,0,23,(021) 4204285,Banjir,-6.178611,106.863922
+SMA Nurul Falah,Jl. Dewa Kembar Komp.TNI-AL Semper Timur,Semper Timur,Cilincing,156,18,(021) 214403864,Banjir,-6.108264,106.925865
+SMA Nusantara,Jl. Kramat Jaya Gg. VIII,Semper Barat,Cilincing,86,18,(021) 4408882,Banjir,-6.157059,106.925957
+SMA Negeri 113,"Jl. Albaidho I, Monumen Pancasila Sakti",Lubang Buaya,Cipayung,1036,61,(021) 8408034,Banjir,-6.29271,106.903008
+SMA Negeri 99,Jl. Cibubur II,Cibubur,Ciracas,1041,64,(021) 8700979,Banjir,-6.347387,106.873474
+SMA Teladan I,Jl. Madrasah No. 49,Susukan,Ciracas,126,18,0877 97748,Banjir,-6.305786,106.867828
+SMA Tunas Harapan,Jl. Kompleks BNI 46 Pesing,Wijaya Kusuma,Grogol Petamburan,212,15,0856 60066,Banjir,-6.159841,106.771591
+SMA Fons Vitae 2,Jl. Kramat Jaya No. 1 B,Lagoa,K o j a,138,17,(021) 43913561,Banjir,-6.114343,106.916794
+PKBM Negeri 19 Paket C,n.a,Pegadungan,Kalideres,282,1,n.a,Banjir,0,0
+SMA Cakra Buana,Jl. Kompleks Kebersihan 17,Tegal Alur,Kalideres,0,13,(021) 55951441,Banjir,-6.127812,106.719528
+SMA Negeri 95,Jl. Satu Maret No.49,Pegadungan,Kalideres,897,48,(021) 54371930,Banjir,-6.108467,106.705292
+SMA Padindi,Jl. Prepedan No. 38,Kamal,Kalideres,63,13,(021) 5561438,Banjir,6.116134,106.706505
+SMA Negeri 46,Jl. Mesjid Darussalam,Gandaria Utara,Kebayoran Baru,958,55,(021) 7246695,Banjir,-6.258005,106.794807
+SMA Tarakanita I,Jl. Pulo Raya IV/17,Petogogan,Kebayoran Baru,244,34,(021) 7393916,Banjir,-6.241526,106.810951
+PKBM Cita Kasih Bangsa Paket C,Jl. Perjuangan No. 6 E-H,Duri Kepa,Kebon Jeruk,0,0,n.a,Banjir,0,0
+SMA Kalam Kudus III,Jl. Kompleks Green Garden blok B4 no.1&20,Kedoya Utara,Kebon Jeruk,53,16,(021) 5827066,Banjir,-6.160955,106.758766
+SMA Kristen Abdi Siswa,Jl. Patra Tomang Raya No. 1,Duri Kepa,Kebon Jeruk,186,15,(021) 5659055,Banjir,-6.175565,106.775734
+SMA Providentia,Jl. Kedoya Raya No.35,Kedoya Utara,Kebon Jeruk,62,14,(021) 5652477,Banjir,-6.166198,106.763824
+SMA Santo Andreas,Jl. Komplek Green Garden J5/1,Kedoya Utara,Kebon Jeruk,86,15,(021) 5807672,Banjir,-6.162469,106.765762
+SMA Negeri 81,Jl. Kartika Eka Paksi KPAD  Jatiwaringin,Cipinang Melayu,Makasar,838,59,(021) 8629940,Banjir,-6.250331,106.917648
+PKBM AS-SAMAWAAT,Jl. Bangka III No. 6,Pela Mampang,Mampang Prapatan,55,0,n.a,Banjir,0,0
+SMA 28 Oktober 1928,Jl. Mampang Prapatan XI,Tegal Parang,Mampang Prapatan,108,18,(021) 7940740,Banjir,-6.246096,106.842125
+SMA Negeri 60,Jl. Kemang Timur I No.6,Bangka,Mampang Prapatan,732,45,(021) 7992054,Banjir,-6.23749,106.826141
+PKBM Cherish Akademi Paket C,Jl. Muara Karang Blok A2U No.169,Pluit,Penjaringan,3,0,n.a,Banjir,0,0
+SMA Bunga Hati Bangsa,Jl. Villa Kapuk Indah Blok GI,Kapuk Muara,Penjaringan,76,13,(021) 5414529,Banjir,-6.137856,106.763725
+SMA Tunas Markatin,Jl. Waru No. 20B,Rawamangun,Pulo Gadung,137,16,(021) 4707917,Banjir,-6.195977,106.888222
+SMA Negeri 8,Jl. Taman Bukitduri,Bukit Duri,T e b e t,1050,62,(021) 8295455,Banjir,-6.217647,106.8592
+SMA Damai,Jl. Duri Selatan V No. 29,Duri Selatan,Tambora,134,19,(021) 63855240/6314637,Banjir,-6.160278,106.805138
+SMA Negeri 19,Jl. Perniagaan  31,Tambora,Tambora,581,37,(021) 6904454,Banjir,-6.141806,106.810036
+SMA Negeri 7,Jl. Karet Pasar Baru Barat V,Karet Tengsin,Tanah Abang,624,41,(021) 5720934,Banjir,-6.166497,106.819839
+SMA Dharma Putra Jakarta,Jl. Swasembada Barat XI No. 92,Kebon Bawang,Tanjung Priok,175,18,(021) 4338183,Banjir,-6.122607,106.887245
+SMA Gita Kirti II,Jl. Sunter Jaya IV/2,Sunter Jaya,Tanjung Priok,23,17,(021) 6508977,Banjir,-6.155814,106.867447
+SMK Analis Kesehatan Tunas Harapan,Jl. Bendera Raya - Intisari 3,Kalisari,Pasar Rebo,350,39,(021) 8720108,Banjir,-6.331491,106.858711
+SMK Bhakti,Jl. Karya Barat I Ujung No.24 Jakarta Barat,Wijaya Kusuma,Grogol Petamburan,30,13,0821 14486336,Banjir,-6.161085,106.773727
+SMK Bunga Nusa I,"Jl. Rawa Bengkel Sdn 19 Pagi, Cengkareng Barat",Cengkareng Barat,Cengkareng,60,10,(021) 5447107,Banjir,-6.141474,106.725876
+SMK Dewi Sartika,Jl. Kebon Nanas Utara II/23,Cipinang Cempedak,Jatinegara,295,21,(021) 85914453,Banjir,1,2
+SMK Hang Tuah I Jakarta,Jl. Tabah Raya Komp. TNI AL,Kelapa Gading Barat,Kelapa Gading,512,28,(021) 4535140,Banjir,-6.158968,106.885063
+SMK Ibu Pertiwi 1 Jakarta,Jl. Let. Jend. S. Parman No. 69,Slipi,Palmerah,0,14,(021) 70624646,Banjir,-6.193888,106.797432
+SMK Islam Fatahillah Jakarta,Jl. Keutamaan No. 89,Krukut,Taman Sari,144,14,(021) 6344508,Banjir,-6.156,106.814003
+SMK Karya Bahari,Jl. Mindi No. 36,Lagoa,K o j a,55,13,(021) 43909933,Banjir,-6.113743,106.916031
+SMK Kesatuan,Jl. Kesatuan No.1 kp.Klingkit,Rawa Buaya,Cengkareng,306,18,(021) 58300174,Banjir,-6.1564,106.728104
+SMK Kimia Tunas Harapan,Jl. Bendera Raya / Intisari III No.17,Kalisari,Pasar Rebo,209,22,(021)8728766,Banjir,-6.330335,106.858643
+SMK Lagoa,Jl. Lagoa III No. 135,Lagoa,K o j a,73,12,(021) 4308134,Banjir,-6.117838,106.913391
+SMK Negeri 26,Jl. Balai Pustaka Baru 1,Rawamangun,Pulo Gadung,1079,105,(021) 4720310,Banjir,-6.19455,106.886497
+SMK Negeri 38,Jl. Kebon Sirih No. 38,Gambir,Gambir,347,31,(021) 3441788,Banjir,-6.181852,106.817123
+SMK Nusantara 2,Jl. Kramat Jaya Gg. VIII,Tugu Utara,K o j a,379,23,(021) 4408882 /44468263,Banjir,-6.121597,106.914185
+SMK Pelayaran Tri Arga 1,Jl. HH No.63 Kebun Jeruk,Kebon Jeruk,Kebon Jeruk,0,12,(021) 5321325,Banjir,-6.203933,106.768753
+SMK PGRI 39 Jakarta,Jl. I Gusti Ngurah Rai,Penggilingan,Cakung,178,21,(021) 46823922,Banjir,-6.215946,106.926956
+SMK PGRI 40 Jakarta,Jl. Rawa Kuning No. 119,Pulo Gebang,Cakung,46,,(021) 96687852,Banjir,0,0
+SMK PGRI 8 Jakarta,Jl. Cipinang Muara I,Pondok Bambu,Duren Sawit,103,12,(021) 86610019,Banjir,-6.212483,106.872505
+SMK Poncol,Jl. Mutiara Raya,Sumur Batu,Kemayoran,0,30,(021) 4252110,Banjir,-6.1642,106.869202
+SMK Raudhatul Jannatunna'im,Jl. Budi Mulia No.91,Pademangan Barat,Pademangan,204,18,(021) 64710005,Banjir,-6.132853,106.839439
+SMK Respati I,Jl. Inpres,Kampung Tengah,Kramat Jati,94,19,(021) 8093086,Banjir,-6.286506,106.870705
+SMK Sumber Daya Manusia,Jl. Amil Buncit Indah I B,Kalibata,Pancoran,0,15,(021)7944204,Banjir,-6.162418,106.495529
+SMK Tarakanita,Jl. Pulo Raya IV/17,Petogogan,Kebayoran Baru,286,26,(021) 7230148,Banjir,-6.246231,106.811752
+SMK Tunas Markatin,Jl. Waru No. 20 B,Rawamangun,Pulo Gadung,163,23,(021) 4707917,Banjir,-6.196035,106.888191
+SMK Yapenap 1 Jakarta,Jl. Pancoran Barat VI B No. 72,Pancoran,Pancoran,78,11,(021) 7902318,Banjir,-6.249705,106.840088
