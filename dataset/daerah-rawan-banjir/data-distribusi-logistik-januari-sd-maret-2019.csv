@@ -1,0 +1,73 @@
+bulan,jenis_barang,jumlah,satuan,kelurahan,kecamatan,wilayah,sumber_dana_barang
+1,Sarung,10,lembar,Tambora,Tambora,Jakarta Barat,APBD 2015
+1,Terpal,32,lembar,Tambora,Tambora,Jakarta Barat,APBD 2016
+1,Mukena,40,buah,Tambora,Tambora,Jakarta Barat,APBD 2018
+1,Peralatan Dapur Keluarga,15,paket,Tambora,Tambora,Jakarta Barat,APBN 2016
+1,Terpal,8,lembar,Tambora,Tambora,Jakarta Barat,APBN 2016
+1,Matras,20,lembar,Tambora,Tambora,Jakarta Barat,APBN 2018
+1,Kidsware,5,paket,Tambora,Tambora,Jakarta Barat,APBN 2018
+1,Family Kit,5,paket,Tambora,Tambora,Jakarta Barat,APBN 2018
+1,Air Mineral,8,dus,Jelambar,Grogol Petamburan,Jakarta Barat,APBD 2018
+1,Biskuit,36,kaleng,Jelambar,Grogol Petamburan,Jakarta Barat,APBD 2018
+1,Seragam SD Laki-Laki,14,stel,Jelambar,Grogol Petamburan,Jakarta Barat,APBD 2015
+1,Seragam SD Perempuan,11,stel,Jelambar,Grogol Petamburan,Jakarta Barat,APBD 2015
+1,Seragam SMP Laki-Laki,5,stel,Jelambar,Grogol Petamburan,Jakarta Barat,APBD 2015
+1,Seragam SMP Perempuan,10,stel,Jelambar,Grogol Petamburan,Jakarta Barat,APBD 2015
+1,Seragam SMA Laki-Laki,5,stel,Jelambar,Grogol Petamburan,Jakarta Barat,APBD 2015
+1,Seragam SMA Perempuan,5,stel,Jelambar,Grogol Petamburan,Jakarta Barat,APBD 2015
+1,Mukena,40,buah,Jelambar,Grogol Petamburan,Jakarta Barat,APBD 2018
+1,Peralatan Dapur Keluarga,6,paket,Jelambar,Grogol Petamburan,Jakarta Barat,APBN 2016
+1,Matras,30,lembar,Jelambar,Grogol Petamburan,Jakarta Barat,APBN 2018
+1,Kidsware,5,paket,Jelambar,Grogol Petamburan,Jakarta Barat,APBN 2018
+1,Family Kit,5,paket,Jelambar,Grogol Petamburan,Jakarta Barat,APBN 2018
+1,Air Mineral,30,dus,Tomang,Grogol Petamburan,Jakarta Barat,APBD 2018
+1,Biskuit,120,kaleng,Tomang,Grogol Petamburan,Jakarta Barat,APBD 2018
+1,Terpal,40,lembar,Tomang,Grogol Petamburan,Jakarta Barat,APBD 2016
+1,Matras,40,lembar,Tomang,Grogol Petamburan,Jakarta Barat,APBD 2018
+1,Paket Makanan Lauk Pauk,120,paket,Tomang,Grogol Petamburan,Jakarta Barat,APBN 2018
+1,Masker,4000,pcs,Tomang,Grogol Petamburan,Jakarta Barat,APBN 2016
+1,Paket Sandang,50,paket,Tomang,Grogol Petamburan,Jakarta Barat,APBN 2018
+1,Kantong  Mayat,5,lembar,RSUD Kalideres,RSUD Kalideres,Jakarta Barat,APBN 2015
+1,Terpal,20,lembar,Lagoa,Koja,Jakarta Utara,APBD 2016
+2,Air Mineral,10,dus,Kamal,Kalideres,Jakarta Barat,APBD 2018
+2,Biskuit,12,kaleng,Kamal,Kalideres,Jakarta Barat,APBD 2018
+2,Terpal,5,lembar,Kamal,Kalideres,Jakarta Barat,APBD 2016
+2,Air Mineral,30,dus,Krukut,Taman Sari,Jakarta Barat,APBD 2018
+2,Biskuit,180,kaleng,Krukut,Taman Sari,Jakarta Barat,APBD 2018
+2,Terpal,20,lembar,Krukut,Taman Sari,Jakarta Barat,APBD 2016
+2,Tikar,15,lembar,Krukut,Taman Sari,Jakarta Barat,APBN 2016
+2,Paket lauk pauk,60,paket,Krukut,Taman Sari,Jakarta Barat,APBN 2018
+2,Paket tambahan gizi,120,paket,Krukut,Taman Sari,Jakarta Barat,APBN 2018
+2,Masker,2000,pcs,Krukut,Taman Sari,Jakarta Barat,APBN 2016
+3,Paket Lauk Pauk,60,paket,Krukut,Taman Sari,Jakarta Barat,APBN 2019
+3,Paket Siap Saji,30,paket,Krukut,Taman Sari,Jakarta Barat,APBN 2019
+3,Paket Lauk Pauk,288,paket,Krukut,Taman Sari,Jakarta Barat,APBN 2018
+3,Paket Tambahan Gizi,180,paket,Krukut,Taman Sari,Jakarta Barat,APBN 2018
+3,Paket Siap Saji,96,paket,Krukut,Taman Sari,Jakarta Barat,APBN 2018
+3,Family Kit,2,paket,Krukut,Taman Sari,Jakarta Barat,APBN 2018
+3,Kidsware,2,paket,Krukut,Taman Sari,Jakarta Barat,APBN 2018
+3,Biskuit,420,kaleng,Krukut,Taman Sari,Jakarta Barat,APBD 2018
+3,Air Mineral,25,dus,Krukut,Taman Sari,Jakarta Barat,APBD 2018
+3,Mukena,100,buah,Krukut,Taman Sari,Jakarta Barat,APBD 2018
+3,Matras,480,lembar,Krukut,Taman Sari,Jakarta Barat,APBD 2018
+3,Terpal,150,lembar,Krukut,Taman Sari,Jakarta Barat,APBD 2016
+3,Seragam SD Laki-Laki,41,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2016
+3,Seragam SD Perempuan,150,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2016
+3,Seragam SMP Laki-Laki,80,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2016
+3,Seragam SMP Perempuan,72,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2016
+3,Seragam SMA Laki-Laki,47,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2016
+3,Seragam SMA Perempuan,2,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2016
+3,Seragam SD Laki-Laki,109,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2015
+3,Seragam SMP Perempuan,8,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2015
+3,Seragam SMA Laki-Laki,23,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2015
+3,Seragam SMA Perempuan,68,stel,Krukut,Taman Sari,Jakarta Barat,APBD 2015
+3,Paket Lauk Pauk,12,paket,Mampang Prapatan,Mampang Prapatan,Jakarta Selatan,APBN 2018
+3,Family Kit,2,paket,Mampang Prapatan,Mampang Prapatan,Jakarta Selatan,APBN 2018
+3,Air Mineral,4,dus,Mampang Prapatan,Mampang Prapatan,Jakarta Selatan,APBD 2018
+3,Biskuit,12,kaleng,Mampang Prapatan,Mampang Prapatan,Jakarta Selatan,APBD 2018
+3,Terpal,6,lembar,Mampang Prapatan,Mampang Prapatan,Jakarta Selatan,APBD 2016
+3,Paket Lauk Pauk,12,paket,Jati Padang,Pasar Minggu,Jakarta Selatan,APBN 2018
+3,Matras,6,lembar,Jati Padang,Pasar Minggu,Jakarta Selatan,APBN 2018
+3,Air Mineral,4,dus,Jati Padang,Pasar Minggu,Jakarta Selatan,APBD 2018
+3,Biskuit,24,kaleng,Jati Padang,Pasar Minggu,Jakarta Selatan,APBD 2018
+3,Mukena,10,buah,Jati Padang,Pasar Minggu,Jakarta Selatan,APBD 2018
